@@ -1,6 +1,6 @@
 Hello friends! Welcome to my GitHub page.
 
-My name is Simran (short for Prabhsimran).
+My name is Simran.
 
 I am an aspiring data science professional (or maybe academic? who knows....)
 
